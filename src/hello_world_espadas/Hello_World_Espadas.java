@@ -18,6 +18,12 @@ public class Hello_World_Espadas {
     public static void main(String[] args) {
         // Prints "Hello, World" to the terminal window.
         System.out.println("Hello, World!!");
+        System.out.println("World!!");
+        System.out.println("llo, World!!");
+        System.out.println("rld!!");
+        System.out.println(",World!!");
+        System.out.println("Ho, World!!");
+        System.out.println("Hll,Wd!!");
     }
 
 }
